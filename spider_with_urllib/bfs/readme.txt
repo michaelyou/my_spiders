@@ -1,4 +1,3 @@
-测试环境：ubuntu 10.04 python 2.6.5
 需要的第三方模块：BeautifulSoup
 
 使用方法：
